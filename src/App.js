@@ -1,7 +1,12 @@
 
 import './App.css';
+import ConditionallyChangetheRowStyle from './components/ConditionallyChangetheRowStyle/ConditionallyChangetheRowStyle';
+// import AddProgressBar from './components/AddProgressBar/AddProgressBar';
+// import DragDrop from './components/DragAndDrop/DragDrop';
+// import UseState11 from './components/usestate/UseState11';
+// import UseState10 from './components/usestate/UseState10';
 // import UseState8 from './components/usestate/UseState8';
-import UseState9 from './components/usestate/UseState9';
+// import UseState9 from './components/usestate/UseState9';
 // import UseState7 from './components/usestate/UseState7';
 // import UseState6 from './components/usestate/UseState6';
 // import UseState5 from './components/usestate/UseState5';
@@ -24,7 +29,12 @@ function App() {
         {/* <UseState6/> */}
         {/* <UseState7/> */}
         {/* <UseState8/> */}
-        <UseState9/>
+        {/* <UseState9/> */}
+        {/* <UseState10/> */}
+        {/* <UseState11/> */}
+        {/* <DragDrop/> */}
+        {/* <AddProgressBar/> */}
+        <ConditionallyChangetheRowStyle/>
     </div>
   );
 }
